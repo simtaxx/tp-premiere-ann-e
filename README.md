@@ -13,7 +13,9 @@
 * rayan adamczak
 * arthur barré
 * xavier mvdz
+* Julian Romana
 * ines dlmx
+* Léa De Amorin
 * amanda tan
 * feriel maddi
 * anouk pakeeree
