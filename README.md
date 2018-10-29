@@ -13,6 +13,7 @@
 * rayan adamczak
 * arthur barré
 * xavier mvdz
+* Julian Romana
 * ines dlmx
 * amanda tan
 * feriel maddi
